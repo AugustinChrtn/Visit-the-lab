@@ -1,4 +1,4 @@
-# Visit-the-lab
+# Visit the lab environment
 
 This repository contains the code to generate the results of Chartouny, A., Amini, K., Khamassi, M., & Girard, B. (2024). A new paradigm to study social and physical affordances as model-based reinforcement learning. Cognitive Robotics, 4, 142-155.
 
